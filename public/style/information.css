@@ -1,0 +1,31 @@
+
+html, body {
+    height: 100%;
+    background-image: url('../Images/pesawat.jpg');
+    background-size: 105px;
+}
+
+.card-title{
+    color:rgb(4, 16, 26);
+    
+}
+.card{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:rgb(41, 90, 133);
+    
+}
+
+.container{
+    height: 155%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:rgb(41, 90, 133);
+    
+}
+
+
+

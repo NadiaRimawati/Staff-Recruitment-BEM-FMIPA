@@ -1,0 +1,22 @@
+.formregis-form{
+    width: 600px;
+    height: 1075px;
+    padding: 20px;
+    color: rgb(37, 92, 134);
+
+
+}html, body {
+    height: 100%;
+    background-image: url('../Images/Messages.png');
+    background-size: 115px;
+}
+.global-container{
+    height: 190%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:rgb(41, 90, 133);
+}
+
+
+

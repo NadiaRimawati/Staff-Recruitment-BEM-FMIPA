@@ -1,0 +1,29 @@
+html, body {
+    height: 100%;
+    background-image: url('../Images/coding.jpg');
+   
+}
+.global-container{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:rgb(41, 90, 133);
+    
+}
+
+.login-form{
+    width: 380px;
+    height: 450px;
+    padding: 20px;
+    color: rgb(37, 92, 134);
+
+}
+
+.regis-form{
+    width: 380px;
+    height: 575px;
+    padding: 20px;
+    color: rgb(37, 92, 134);
+}
+
